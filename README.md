@@ -1,9 +1,5 @@
 # j10ce-qos: Enhanced QoS Management for Kubernetes and Beyond
 
-[![Go Version][go-shield]][go-url]
-[![License][license-shield]][license-url]
-[![Build Status][build-shield]][build-url] [![Go Report Card][goreport-shield]][goreport-url] [![Docs Status][docs-shield]][docs-url] **j10ce-qos** is an open-source project designed to provide an out-of-tree, extensible Quality of Service (QoS) management framework. It aims to enhance workload performance and resource utilization predictability, initially targeting Kubernetes environments, with a vision to support other containerized and non-containerized systems. A core feature of j10ce-qos is the introduction of a **Minimal Reservation** mechanism, ensuring critical workloads receive a guaranteed minimum set of resources.
-
 ---
 
 ## Table of Contents
@@ -149,16 +145,3 @@ Key areas for contribution include:
 ## License
 
 j10ce-qos is licensed under the [Apache License 2.0][license-url].
-
----
-
-* [go-shield]: https://img.shields.io/badge/go-1.20.2+-blue.svg
-* [go-url]: https://golang.org/dl/
-* [license-shield]: https://img.shields.io/badge/License-Apache%202.0-blue.svg
-* [license-url]: https://www.apache.org/licenses/LICENSE-2.0
-* [build-shield]: https://img.shields.io/github/actions/workflow/status/turtacn/j10ce-qos/main.yml?branch=main&style=flat-square 
-* [build-url]: https://github.com/turtacn/j10ce-qos/actions 
-* [goreport-shield]: https://goreportcard.com/badge/github.com/turtacn/j10ce-qos
-* [goreport-url]: https://goreportcard.com/report/github.com/turtacn/j10ce-qos
-* [docs-shield]: https://img.shields.io/badge/docs-passing-brightgreen 
-* [docs-url]: https://github.com/turtacn/j10ce-qos/tree/main/docs 
