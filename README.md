@@ -55,7 +55,7 @@ j10ce-qos employs a layered architecture consisting of a Control Plane and a Dat
 * **Control Plane**: Manages QoS policies, reservation requests, and (optionally) interacts with the scheduler. It includes components like the API Server, Policy Manager, and Reservation Manager.
 * **Node Agent**: Runs on each managed node, monitoring local resources and enforcing QoS policies by interacting with underlying kernel mechanisms like cgroups and network subsystems.
 
-For a detailed explanation of the architecture, components, and design decisions, please refer to the [Architecture Document](./docs/architecture.md).
+For a detailed explanation of the architecture, components, and design decisions, please refer to the [Architecture Document / 架构设计](./docs/architecture.md).
 
 ## Current Status
 
@@ -144,4 +144,4 @@ Key areas for contribution include:
 
 ## License
 
-j10ce-qos is licensed under the [Apache License 2.0][license-url].
+j10ce-qos is licensed under the [Apache License 2.0](LICENSE).
