@@ -152,10 +152,10 @@ j10ce-qos is licensed under the [Apache License 2.0][license-url].
 
 ---
 
-[go-shield]: https://img.shields.io/badge/go-1.20.2+-blue.svg
-[go-url]: https://golang.org/dl/
-[license-shield]: https://img.shields.io/badge/License-Apache%202.0-blue.svg
-[license-url]: https://www.apache.org/licenses/LICENSE-2.0
-[build-shield]: https://img.shields.io/github/actions/workflow/status/turtacn/j10ce-qos/main.yml?branch=main&style=flat-square [build-url]: https://github.com/turtacn/j10ce-qos/actions [goreport-shield]: https://goreportcard.com/badge/github.com/turtacn/j10ce-qos
-[goreport-url]: https://goreportcard.com/report/github.com/turtacn/j10ce-qos
-[docs-shield]: https://img.shields.io/badge/docs-passing-brightgreen [docs-url]: https://github.com/turtacn/j10ce-qos/tree/main/docs ```
+- [go-shield]: https://img.shields.io/badge/go-1.20.2+-blue.svg
+- [go-url]: https://golang.org/dl/
+- [license-shield]: https://img.shields.io/badge/License-Apache%202.0-blue.svg
+- [license-url]: https://www.apache.org/licenses/LICENSE-2.0
+- [build-shield]: https://img.shields.io/github/actions/workflow/status/turtacn/j10ce-qos/main.yml?branch=main&style=flat-square [build-url]: https://github.com/turtacn/j10ce-qos/actions [goreport-shield]: https://goreportcard.com/badge/github.com/turtacn/j10ce-qos
+- [goreport-url]: https://goreportcard.com/report/github.com/turtacn/j10ce-qos
+- [docs-shield]: https://img.shields.io/badge/docs-passing-brightgreen [docs-url]: https://github.com/turtacn/j10ce-qos/tree/main/docs ```
